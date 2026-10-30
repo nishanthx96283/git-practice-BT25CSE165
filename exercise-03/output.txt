@@ -1,0 +1,7 @@
+Normal input:
+Enter your name: Nishanth
+Hello, Nishanth!
+
+Empty input:
+Enter your name:
+Name cannot be empty.
