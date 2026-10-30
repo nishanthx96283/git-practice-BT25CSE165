@@ -23,17 +23,42 @@ This repository contains the practical implementations and verified execution re
 11. [Exercise 11: Reverting Commits](exercise-11/)
 12. [Exercise 12: Work Stashing and Restoration](exercise-12/)
 
-## Completion Checklist
+## Compile and Run Instructions
 
-- [x] Exercise 01: Git Configuration and Verification
-- [x] Exercise 02: Repository Documentation Setup
-- [x] Exercise 03: Interactive Greeting Script
-- [x] Exercise 04: Selective Staging and Commits
-- [x] Exercise 05: Difference Inspection with Git Diff
-- [x] Exercise 06: Git Ignore Rules
-- [x] Exercise 07: Feature Branching and Merging
-- [x] Exercise 08: Branch Lifecycle and Deletion
-- [x] Exercise 09: Merge Conflict Simulation and Resolution
-- [x] Exercise 10: Discarding and Restoring Changes
-- [x] Exercise 11: Reverting Commits
-- [x] Exercise 12: Work Stashing and Restoration
+### Prerequisites
+
+- Git installed on your system.
+- Bash terminal for running shell scripts.
+- GitHub account for accessing the repository.
+
+### Clone the Repository
+
+```bash
+git clone <your-github-repository-link>
+cd git-practice-BT25CSE165
+```
+
+### Run Exercise 3: Greeting Script
+
+```bash
+cd exercise-03
+bash greeting.sh
+```
+
+### Run Exercise 7: Menu Program
+
+```bash
+cd exercise-07
+bash menu.sh
+```
+
+### Verify Git Exercises
+
+Run the following commands from the repository root to inspect the repository and its changes.
+
+```bash
+git status
+git log --oneline
+git branch
+```
+
