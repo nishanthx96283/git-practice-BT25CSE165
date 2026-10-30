@@ -6,7 +6,7 @@
 **Institution:** Indian Institute of Information Technology, Nagpur  
 GitHub Repository: [PASTE YOUR GITHUB REPOSITORY LINK HERE]
 
-This repository contains the practical implementations and verification records for 12 essential Git exercises completed as part of the curriculum evaluation.
+This repository contains the practical implementations and verified execution records for all 12 Git exercises completed as part of the curriculum evaluation.
 
 ## Exercises
 
