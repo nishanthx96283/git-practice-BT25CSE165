@@ -1,0 +1,7 @@
+Git Help Documentation
+
+Useful commands:
+- git status: Check working tree and staging area
+- git log --oneline: View compact commit history
+- git diff: Inspect unstaged changes
+- git branch: Manage repository branches
