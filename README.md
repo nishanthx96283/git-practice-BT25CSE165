@@ -10,7 +10,7 @@ A collection of 12 practical exercises covering Git fundamentals, file managemen
 - **Roll Number:** BT25CSE165
 - **Section:** C-1
 - **Institution:** Indian Institute of Information Technology, Nagpur
-- **GitHub Repository:** [View Repository]https://github.com/nishanthx96283/git-practice-BT25CSE165.git
+- **GitHub Repository:** https://github.com/nishanthx96283/git-practice-BT25CSE165.git
 
 ## About the Project
 
